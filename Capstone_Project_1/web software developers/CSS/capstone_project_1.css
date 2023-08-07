@@ -1,0 +1,595 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+#div1{
+	height: 550px;
+	width: 1200px;
+	background-color: indigo;
+}
+#img1{
+	height: 400px;
+	width: 500px;
+	margin-left: 300px;
+	margin-top: 70px;
+	margin-right: px;
+}
+#div2{
+	height: 330px;
+	width: 500px;
+	margin-left: 20px;
+	float: left;
+}
+#key{
+	height: 330px;
+	width: 500px;
+	margin-left: 20px;
+}
+#div3{
+	height: 130px;
+	width: 150px;
+	float: left;
+	background-color: skyblue;
+	margin-left: 200px;
+}
+
+#computer{
+	font-size: 50px;
+	color: white;
+	margin-top: 5px;
+}
+#dev{
+	color: white;
+
+}
+#div4{
+	height: 130px;
+	width: 150px;
+	float: left;
+	background-color: purple;
+	margin-left: 50px;
+}
+#bag{
+	font-size: 50px;
+	color: white;
+	margin-top: 5px;
+}
+#top{
+	color: white;
+}
+#div5{
+	height: 130px;
+	width: 150px;
+	background-color: blueviolet;
+	margin-left: 720px;
+	margin-top: 200px;
+}
+#box{
+	font-size: 50px;
+	color: white;
+	margin-top: 5px;
+}
+#design{
+	color: white;
+}
+#div6{
+	height: 130px;
+	width: 150px;
+	background-color: violet;
+	margin-left: 920px;
+	margin-top: -130px;
+}
+#cpu{
+	font-size: 50px;
+	color: white;
+	margin-top: 5px;
+}
+#response{
+	color: white;
+}
+#div7{
+	height: 370px;
+	width: 1200px;
+	background-color: indigo;
+	margin-top: 40px;
+	/*margin-top: 40px;
+	/*background-image: url('images/data.jpg');
+	background-size: 1200px 350px;
+	background-repeat: no-repeat;*/
+}*/
+#data{
+	height: 350px;
+	width: 1200px;
+
+}
+#p{
+	color: white;
+	margin-top: 50px;
+	margin-right: 400px;
+	font-size: 30px;
+	padding-bottom: 20px;
+	margin-top: -0px;
+	margin-top: 30px;
+	margin-left: -400px;
+}
+#goals{
+	color: white;
+	margin-right: 200px;
+	height: 10px;
+	padding-top: 20px;
+}
+#goal1{
+	color: white;
+	padding-right: 100px;
+}
+#more1{
+	color: white;
+	padding-right: 210px;
+	
+
+}
+#we{
+	color: white;
+}
+#we2{
+	color: white;
+	margin-left: 20px;
+}
+#small{
+	height: 100px;
+	width: 100px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 150px;
+}
+#s{
+	color: white;	
+}
+#small2{
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+#small3{
+	height: 100px;
+	width: 200px;
+	float: left;
+	margin-top: 30px;
+}
+#read{
+	height: 20px;
+	width: 120px;
+	float: left;
+	background-color: skyblue;
+	color: white;
+	margin-left: 30px;
+	margin-top: 80px;
+	border-radius: 20px;
+}
+#da{
+	height: 200px;
+	width: 500px;
+	float: left;
+	background-image: url('../images/data.jpg');
+	background-size: 500px 200px;
+	margin-left: 100px;
+	margin-top: 100px;
+/*	background-repeat: no-repeat;*/
+
+}
+#head{
+	height: 20px;
+	width: 100px;
+	float: left;
+}
+#strategy{
+	color: white;
+	padding-right: 170px;
+	padding-top: 40px;
+	padding
+}
+#strategy1{
+	color: white;
+	padding-right: 100px;
+	padding-top: 15px;
+}
+#more2{
+	color: white;
+	padding-right: 210px;
+}
+#div8{
+	height: 290px;
+	width: 1200px;
+	background-color: white;
+	margin-top: 40px;
+/*	border: 1px solid black;*/
+}
+#it{
+	height: 290px;
+	width: 800px;
+	float: right;
+/*	border: 1px solid black;*/
+/*	margin-top: 60px;*/
+	margin-right: -20px;
+	background-image: url('../images/it.jpg');
+	background-size: 700px 290px;
+	background-repeat: no-repeat;
+}
+#it2{
+	height: 290px;
+	width: 350px;
+/*	border: 1px solid black;*/
+/*	margin-top: 70px;*/
+	margin-right:720px;
+}
+#it3{
+	color: deepskyblue;
+}
+#learn{
+	height: 25px;
+	width: 120px;
+	background-color: deepskyblue;
+	padding-top: 2px;
+	margin-top: 40px;
+	border-radius: 20px;
+	color: white;
+}
+#div9{
+	height: 650px;
+	width: 1200px;
+	background-color: indigo;
+}
+#hack{
+	height: 400px;
+	width: 800px;
+	/*background-image: url('images/hack.jpg');
+	background-size: 900px 450px;
+	background-repeat: no-repeat;*/
+/*	border: 3px solid red;*/
+	float: left;
+	margin-top: 100px;
+	margin-left: 140px;
+}
+#img{
+	height: 450px;
+	width: 850px;
+}
+#merge{
+	height: 220px;
+	width: 350px;
+	margin-left: 600px;
+	margin-top: -170px;
+	position: absolute;
+}
+#box1{
+	height: 85px;
+	width: 140px;
+	float: left;
+	background-color: white;
+}
+#box2{
+	height: 85px;
+	width: 140px;
+	float: right;
+	background-color: white;
+}
+#box{
+	height: 85px;	
+}
+#b{
+	height: 85px;
+}
+#box3{
+	height: 85px;
+	width: 140px;
+	float: left;
+	margin-top: 30px;
+	background-color: white;
+}
+#box4{
+	height: 85px;
+	width: 140px;
+	float: right;
+	margin-top: 30px;
+	background-color: white;
+}
+/*#bulb{
+	color: blue;
+	font-size: 30px;
+	margin-top: 5px;
+}
+#adjust{
+	font-size: 20px;
+	color: black;
+	font-family: serif;
+}*/
+#development{
+	height: 85px;
+	width: 140px;
+}
+/*#wifi{
+	color: blue;
+	font-size: 20px;
+}*/
+/*#sma{
+	font-size: 10px;
+	font-family: serif;
+}
+#adjust2{
+	font-size: 20px;
+	color: black;
+	font-family: serif;
+}*/
+/*#ai{
+	font-size: 20px;
+	color: black;
+	font-family: serif;
+}
+#robot{
+	font-size: 30px;
+	color: blue;
+}*/
+#ai{
+	height: 85px;
+	width: 140px;
+}
+#automation{
+	height: 85px;
+	width: 140px;
+}
+#network{
+	height: 85px;
+	width: 140px;
+}
+#robot{
+	height: 85px;
+	width: 140px;
+}
+#div10{
+	height: 400px;
+	width: 1200px;
+	background-color: white;
+	margin-top: 40px;
+}
+#s1{
+	height: 400px;
+	width: 600px;
+	float: left;
+	margin-left: 100px;
+}
+#sol{
+	height: 380px;
+	width: 600px;
+}
+/*#s2{
+	height: 290px;
+	width: 350px;
+/*	border: 1px solid black;*/
+/*	margin-top: 70px;*/
+/*	margin-right:720px;
+	float: right;
+}
+#s3{
+	color: deepskyblue;
+}
+#learn2{
+	height: 25px;
+	width: 120px;
+	background-color: deepskyblue;
+	padding-top: 2px;
+	margin-top: 40px;
+	border-radius: 20px;
+	color: white;*/*/
+#h{
+		height: 25px;
+		width: 100px;
+		padding-bottom: -50px;
+		border: 3px solid green;
+}
+#h2{
+		color: skyblue;
+		padding-top: 60px;
+}
+#l{
+	background-color: skyblue;
+	color: white;
+	border-radius: 10px;
+}
+#l2{
+	height: 20px;
+	width: 120px;
+	margin-left: 700px;
+	margin-top: 20px;
+}
+#div12{
+	height: 630px;
+	width: 1200px;
+	background-color: indigo;
+	margin-top: 20px;
+}
+#div13{
+	height: 400px;
+	width: 400px;
+	background-color: blue;
+	position: absolute;
+	margin-top: 120px;
+	margin-left: 600px;
+}
+#div14{
+	height: 400px;
+	width: 470px;
+	background-color: green;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 500px;
+}
+#analytics{
+	height: 400px;
+	width: 470px;
+}
+#white{
+	height: 300px;
+	width: 300px;
+	background-color: white;
+	position: absolute;
+	margin-top: 300px;
+	margin-left: 300px;
+}
+#ana{
+	color: indigo;
+	padding-top: 20px;
+}
+#blue{
+	height: 20px;
+	width: 120px;
+	color: white;
+	background-color: deepskyblue;
+	border-radius: 20px;
+}
+#div15{
+	height: 300px;
+	width: 1200px;
+	background-color: white;
+}
+#div15a{
+	height: 300px;
+	width: 500px;
+	background-color: white;
+	float: left;
+}
+#h{
+	padding-top: 30px;
+}
+#ha{
+	padding-top: 10px;
+	padding-right: 120px;
+
+}
+#progress{
+    height: 5px;
+	width: 80px;
+	background-color: blue;
+	border-radius: 10px;
+	margin-left: -200px;
+}
+#div15b{
+	height: 280px;
+	width: 600px;	
+	float: right;
+	margin-top: 20px;
+	margin-right: 80px;
+}
+.p{
+	color: grey;
+	padding-top: 30px;
+	font-size: 20px;
+}
+.q{
+	color: grey;
+	padding-top: 30px;
+	padding-right: 45px;
+	font-size: 20px;
+}
+.r{
+	color: grey;
+	padding-top: 30px;
+	padding-right: 400px;
+	font-size: 20px;
+}
+.a{
+	color: black;
+	padding-right: 50px;
+	font-size: 20px;
+}
+.b{
+	color: black;
+	padding-right: 10px;
+	font-size: 20px;
+}
+.c{
+	color: black;
+	padding-right: 20px;
+	font-size: 20px;
+}
+.d{
+	color: black;
+	padding-right: 200px;
+	font-size: 20px;
+}
+.learn{
+	height: 20px;
+	width: 120px;
+	background-color: deepskyblue;
+	color: white;
+	border-radius: 20px;
+	margin-top: 40px;
+	margin-right: 340px;
+}
+#div16{
+	height: 400px;
+	width: 1200px;
+	background-color: indigo;
+}
+.x{
+	color: white;
+	padding-top: 30px;
+}
+.y{
+	color: white;
+	padding-top: 10px;
+}
+.z{
+	color: white;
+	padding-top: 10px;
+}
+.ad{
+	height: 170px;
+	width: 200px;
+	background-color: white;
+	float: left;
+	margin-left: 230px;
+	margin-top: -200px;
+}
+.em{
+	height: 170px;
+	width: 200px;
+	background-color: white;
+	float: left;
+	margin-left: 540px;
+	margin-top: -200px;
+	
+}
+.call{
+	height: 170px;
+	width: 200px;
+	background-color: white;
+	float: right;
+	margin-right: 200px;
+	margin-top: -200px;
+}
+.k{
+	height: 170px;
+	width: 200px;
+}
+.m{
+	height: 170px;
+	width: 200px;
+}
+.n{
+	height: 170px;
+	width: 200px;
+}
+#divlast{
+	height: 150px;
+	width: 1200px;
+	background-color: dimgrey;
+}
+.last{
+	font-size: 15px;
+	color: white;
+	padding-top: 20px;
+}
+.underline{
+	color: deepskyblue;
+}
